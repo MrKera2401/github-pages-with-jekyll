@@ -1,11 +1,11 @@
 ---
-title: Produzi dalje. Don't mess up w me.
-author: MrKera2401DINN
-email: sirbegovickerim2401@gmail.com
+title: Produzi dalje Don't mess up w me.
+author: MrKera2401 DINN
+email: sirbegovic-kerim2401@gmail.com
 
 
 description: > # this means to ignore newlines until "baseurl:"
-  Dodji kupi nismo skupi. You can edit this
+  Write something amazing and beautiful. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 instagram_username: kerim.sirbegovic # DO NOT include the @ character, or else the build will fail!
 github_username:  MrKera2401 # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
 
